@@ -54,4 +54,3 @@ def isWinner(x, nums):
         return "Ben"
 
     return None
-    
